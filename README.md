@@ -54,5 +54,18 @@ Lessons come in 3 varieties: READMEs, Labs, and Code-Alongs. READMEs have no IDE
 
 Before this (i.e. in HTML material) labs are a bit more confusing because there will be no feedback (i.e. “Green light”) to indicate solution. In this case, students should work to build their side in the Lab’s associated IDE environment. Once they have a site that’s how they want, they should issue `learn submit` wait for feedback of pull request having been received, and then refresh the page. They will then have the green light and understand to move on. This might need to be demonstrated. Points of demonstration are noted below per day.
 
+### A Note About This Guide Track
+
+The FEWD_Teacher's Guide materials are written originally by the curriculum team to assist our instructors, but there is no one better equipped to say what did and did not help than the instructors actually teaching the course.
+
+As this course is launched in various environments to a variety of students, we 
+encourage all instructors to add, modify, and contribute to these repositories.  There may be considerations, helpful bits of information, or materials that you discover that would be beneficial to all of our instructors in the future, so, if you can, after you've completed teaching a class, please update these repositories! There environment issues that we did not forsee. There also may be considerations for students of different skill levels or learning styles.  
+
+With more information shared here, we can provide a better, more consistent experience for future students.
+
+Thank you!
+
+
+
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/fewd-teacher-guide-introduction'>FEWD-Teacher-Guide-Introduction</a> on Learn.co and start learning to code for free.</p>
